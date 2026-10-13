@@ -8,11 +8,19 @@
         <version>4.1.1</version>
         <relativePath/> <!-- lookup parent from repository -->
     </parent>
+<<<<<<< HEAD
     <groupId>com.example</groupId>
     <artifactId>autoloc</artifactId>
     <version>0.0.1-SNAPSHOT</version>
     <name>autoloc</name>
     <description>autoloc</description>
+=======
+    <groupId>org.example</groupId>
+    <artifactId>autoloc1</artifactId>
+    <version>0.0.1-SNAPSHOT</version>
+    <name>autoloc1</name>
+    <description>autoloc1</description>
+>>>>>>> daa865632cc234c64acd4a826e25e8dd399f063a
     <url/>
     <licenses>
         <license/>
@@ -106,4 +114,8 @@
         </plugins>
     </build>
 
+<<<<<<< HEAD
 </project>
+=======
+</project>
+>>>>>>> daa865632cc234c64acd4a826e25e8dd399f063a
